@@ -104,3 +104,4 @@ print()
 for x in students_list:
     print(repr(x))
     print(x)
+# 두 가지 메서드를 만든다면 __str__ 메서드가 호출한다.
